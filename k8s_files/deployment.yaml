@@ -19,5 +19,5 @@ spec:
       - name: amazon-prime-container
         image: 941377143083.dkr.ecr.ap-south-1.amazonaws.com/amazon-prime:3
         ports:
-        - containerPort: 3000
+        - containerPort: 80
 ...
